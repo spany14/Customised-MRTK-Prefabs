@@ -1,2 +1,2 @@
-# Customised-MRTK-Prefabs
-MRTK Prefabs customized for Unity and Hololens apps
+# Customised-MRTK-Prefabs and scripts
+Few of MRTK Prefabs and scripts customized for Unity and Hololens app expereince
